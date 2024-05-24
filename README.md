@@ -1,7 +1,3 @@
-Sure, here's a sample README file for your CodeSync project:
-
----
-
 # CodeSync
 
 CodeSync is a real-time collaborative code editing tool built using React, Node.js, Express, and Socket.IO. It allows multiple users to collaborate on a single code file in real-time.
